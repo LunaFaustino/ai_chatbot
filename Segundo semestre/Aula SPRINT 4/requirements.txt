@@ -1,0 +1,16 @@
+# criação da API
+flask
+flask_cors
+
+# manipulação de dados
+pandas
+
+# viz
+matplotlib
+seaborn
+
+# computação numérica
+numpy
+
+# treinamento de modelos ML
+scikit-learn==1.2.2
